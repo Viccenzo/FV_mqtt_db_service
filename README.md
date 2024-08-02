@@ -75,7 +75,7 @@ Inicializa o serviço MQTT com dois servidores MQTT e um callback para mensagens
 - `server2 (str)`: Endereço do segundo servidor MQTT.
 
 **Retorno**
-- `[client1, client2]`: Lista de clientes MQTT inicializados.
+- Null
 
 ### `sendDF(df, table)`
 Envia um dataframe pandas para o banco de dados via MQTT.
