@@ -41,8 +41,6 @@ def initDBService(callback,user,server1,server2):
     #client2.on_connect = on_connect
     #client2.loop_start()
 
-    return [client1,client2]
-
 def sendDF(df,table):
     global client1
     global client2
