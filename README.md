@@ -24,8 +24,6 @@ pip install -r requirements.txt
 ### Inicialização do Serviço
 A função `initDBService` inicializa o serviço MQTT e configura os clientes MQTT.
 ```python
-import mqtt_db_service as service
-import pandas as pd
 import time
 
 # Callback assíncrono para inserção no banco de dados
