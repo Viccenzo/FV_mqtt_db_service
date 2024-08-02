@@ -1,5 +1,3 @@
-import mqtt_db_service as service
-import pandas as pd
 import time
 
 # Asynchronous DB insert callback
