@@ -8,8 +8,6 @@ O FV MQTT DB Service é um serviço que permite a inserção assíncrona de dado
 - Python 3.x
 - pandas
 - paho-mqtt
-- sqlalchemy
-- psycopg2-binary
 
 ## Instalação
 Primeiro, instale as dependências necessárias utilizando o `pip`:
