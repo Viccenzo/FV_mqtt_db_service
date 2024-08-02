@@ -85,4 +85,4 @@ Envia um dataframe pandas para o banco de dados via MQTT.
 - `table (str)`: Nome da tabela do banco de dados.
 
 **Retorno**
-- `str`: Mensagem de sucesso ou erro.
+- `str`: Mensagem de sucesso ou erro no uso da biblioteca.
